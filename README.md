@@ -1,4 +1,5 @@
 # Mini Server Dashboard
+<img width="927" height="782" alt="image" src="https://github.com/user-attachments/assets/ce084842-3807-464a-9e21-faafedb4d9f9" />
 
 A tiny Linux server dashboard built with FastAPI + psutil.
 

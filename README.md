@@ -1,7 +1,7 @@
 # Server Dashboard
 
 Максимально простой, переносимый и надежный дашборд для Linux-серверов. Не требует Node.js, сложных баз данных или сторонних Python-библиотек.
-<img width="1280" height="805" alt="image" src="https://github.com/user-attachments/assets/6e7e3f48-19f2-4f77-9d98-d5ede92c3ca0" />
+![Uploading image.png…]()
 
 ## 1. Быстрый запуск
 

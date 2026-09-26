@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "id": "docker-nginx",
+      "name": "Nginx",
+      "type": "docker",
+      "version": "1.0",
+      "description": "Nginx Docker configuration",
+      "path": "docker/nginx",
+      "tags": ["web", "nginx"]
+    }
+  ]
+}
